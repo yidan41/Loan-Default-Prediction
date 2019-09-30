@@ -1,5 +1,6 @@
 # Loan-Default-Prediction
 Learning a pool of borrowers’ behavior to predict whether a new loan applicant will default based on LendingClub’s data via Python
+
 -----------
 # Files
 __Loan Default Prediction_EDA.ipynb__ : creates descriptive statistics and multiple plots to visualize various Data Science roles' skill requirements based on intuition
